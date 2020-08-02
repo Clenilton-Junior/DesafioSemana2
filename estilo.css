@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#titulo {
+ background-image: url(https://nacoesunidas.org/wp-content/uploads/2017/02/ods12.png);
+ background-size: cover;
+ height: 40%;
+}
+a {
+    color: white;
+    border: 2px white solid;
+    font-size: 30px;
+    padding: 1px;
+}
+#ad {
+    float: left;
+}
+.an {
+    margin-top: 60px;
+    font-size: 20px;
+}
+#abc {
+    text-align: center;
+}
+#def {
+    background-color: silver;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#ca {
+    background-color: rgb(8, 124, 133);
+}
+.pgf {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: justify;
+}
+#do {
+    float: left;
+}
+#fn {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    background-color: rgba(44, 133, 139, 0.616);
+}
+#fs {
+    text-align: right;
+    font-size: 25px;
+}
